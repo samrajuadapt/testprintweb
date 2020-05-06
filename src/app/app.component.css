@@ -1,0 +1,35 @@
+
+
+.main-c{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    
+}
+.sub-c{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 200px;
+    height: 400px;
+    flex-direction: column;
+    border: 1px solid gray;
+}
+
+.button-c{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 50px;
+    width: 200px;
+    margin: 10px;
+    background: aqua;
+}
+
+.title{
+    margin-top: 10px;
+}
